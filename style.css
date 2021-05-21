@@ -12,6 +12,13 @@ body{
     background:#eeddee;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .welcome{
     margin:2.5em;
     display: flex;
